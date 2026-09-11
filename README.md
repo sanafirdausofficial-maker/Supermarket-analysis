@@ -261,6 +261,13 @@ The dataset is already included in the repository, so the dashboard can load the
 
 ---
 
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e3c18017-4569-4b9c-ac22-61d6b21bec55" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/41f0580f-d4ee-4e7f-854e-35baf11dddb0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6c8d8dfd-9ee3-45ca-b66b-0bf3af441d02" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/80ccd8da-793a-44a2-93e0-c7cfeca33940" />
+
+
 ## ☁️ Live Deployment
 
 The dashboard is deployed using **Streamlit Community Cloud**.
