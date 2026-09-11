@@ -1,0 +1,501 @@
+Invoice ID,Date,Branch,City,Customer Type,Gender,Product,Category,Quantity,Unit Price,Payment,Rating,Sales
+INV0001,2026-06-01,A,Jaipur,Member,Male,Milk,Dairy,4,57.13,UPI,3.8,228.52
+INV0002,2026-02-26,A,Jaipur,Normal,Male,Rice,Grocery,9,66.85,Net Banking,3.9,601.65
+INV0003,2026-02-09,C,Mumbai,Normal,Female,Milk,Dairy,3,57.28,Card,3.4,171.84
+INV0004,2026-01-12,C,Mumbai,Member,Female,Shampoo,Personal Care,2,168.27,Card,4.5,336.54
+INV0005,2026-06-30,A,Jaipur,Normal,Female,Apples,Fruits,5,130.57,Cash,3.1,652.85
+INV0006,2026-04-27,B,Delhi,Normal,Female,Soap,Personal Care,4,48.49,Card,4.3,193.96
+INV0007,2026-05-17,C,Mumbai,Normal,Male,Cooking Oil,Grocery,4,146.88,Cash,4.5,587.52
+INV0008,2026-02-28,B,Delhi,Member,Female,Potato,Vegetables,9,34.32,UPI,4.6,308.88
+INV0009,2026-06-17,C,Mumbai,Normal,Female,Apples,Fruits,4,134.8,Cash,4,539.2
+INV0010,2026-05-30,D,Bengaluru,Normal,Female,Biscuits,Snacks,4,28.87,Net Banking,3.8,115.48
+INV0011,2026-06-10,B,Delhi,Normal,Male,Biscuits,Snacks,2,30.05,Cash,3.3,60.1
+INV0012,2026-05-22,D,Bengaluru,Member,Female,Chips,Snacks,7,32.56,Card,4.7,227.92
+INV0013,2026-03-17,A,Jaipur,Normal,Female,Shampoo,Personal Care,9,185.23,UPI,3.9,1667.07
+INV0014,2026-06-10,D,Bengaluru,Normal,Male,Milk,Dairy,5,58.99,UPI,3.6,294.95
+INV0015,2026-05-06,B,Delhi,Member,Male,Biscuits,Snacks,3,29.39,Card,3,88.17
+INV0016,2026-05-05,C,Mumbai,Normal,Male,Soap,Personal Care,4,43.12,UPI,4.6,172.48
+INV0017,2026-05-19,B,Delhi,Member,Female,Biscuits,Snacks,9,30.77,Cash,4.5,276.93
+INV0018,2026-03-05,B,Delhi,Member,Female,Soap,Personal Care,6,44.27,UPI,3.4,265.62
+INV0019,2026-07-01,C,Mumbai,Member,Male,Milk,Dairy,4,55.78,UPI,4.3,223.12
+INV0020,2026-06-21,B,Delhi,Member,Male,Rice,Grocery,6,74.54,Card,4,447.24
+INV0021,2026-01-25,B,Delhi,Normal,Female,Cold Drink,Beverages,4,65.79,Cash,3.2,263.16
+INV0022,2026-01-16,D,Bengaluru,Normal,Male,Coffee,Beverages,8,177.8,UPI,3.8,1422.4
+INV0023,2026-02-16,C,Mumbai,Member,Male,Shampoo,Personal Care,4,172.76,Net Banking,3.6,691.04
+INV0024,2026-03-02,B,Delhi,Member,Male,Rice,Grocery,9,69.36,UPI,3.3,624.24
+INV0025,2026-01-01,D,Bengaluru,Normal,Male,Tomato,Vegetables,7,42.94,Net Banking,5,300.58
+INV0026,2026-02-18,C,Mumbai,Normal,Female,Potato,Vegetables,9,33.8,Cash,3.6,304.2
+INV0027,2026-05-30,A,Jaipur,Normal,Male,Cold Drink,Beverages,1,67.45,UPI,4,67.45
+INV0028,2026-06-22,B,Delhi,Normal,Male,Bread,Bakery,2,42.95,UPI,4.7,85.9
+INV0029,2026-04-18,D,Bengaluru,Member,Male,Shampoo,Personal Care,10,192.72,UPI,4.3,1927.2
+INV0030,2026-06-21,C,Mumbai,Member,Female,Face Wash,Personal Care,6,114.32,Cash,4.3,685.92
+INV0031,2026-05-18,D,Bengaluru,Member,Male,Tea,Beverages,2,128.24,UPI,3.4,256.48
+INV0032,2026-02-10,C,Mumbai,Normal,Female,Biscuits,Snacks,2,32.08,Card,3.9,64.16
+INV0033,2026-02-04,C,Mumbai,Member,Female,Chips,Snacks,9,37.71,UPI,3.5,339.39
+INV0034,2026-06-25,A,Jaipur,Normal,Female,Noodles,Grocery,5,51.97,Cash,4.3,259.85
+INV0035,2026-01-12,C,Mumbai,Member,Female,Cheese,Dairy,1,219.6,Card,3,219.6
+INV0036,2026-01-29,B,Delhi,Member,Female,Face Wash,Personal Care,8,113.5,UPI,3.2,908
+INV0037,2026-02-02,B,Delhi,Member,Male,Noodles,Grocery,6,50.92,Net Banking,3.1,305.52
+INV0038,2026-05-24,C,Mumbai,Normal,Male,Bread,Bakery,4,42.55,Card,4.8,170.2
+INV0039,2026-01-07,D,Bengaluru,Normal,Male,Chips,Snacks,4,36.4,Net Banking,3.4,145.6
+INV0040,2026-01-10,C,Mumbai,Member,Male,Bananas,Fruits,4,62.9,Net Banking,4.7,251.6
+INV0041,2026-01-07,B,Delhi,Member,Male,Chocolate,Snacks,8,52.53,Cash,4.3,420.24
+INV0042,2026-06-14,D,Bengaluru,Normal,Female,Tea,Beverages,2,115.75,Card,4,231.5
+INV0043,2026-01-28,C,Mumbai,Member,Female,Milk,Dairy,5,51.62,UPI,4.2,258.1
+INV0044,2026-01-12,C,Mumbai,Member,Male,Tea,Beverages,9,118.78,Card,4.4,1069.02
+INV0045,2026-04-21,A,Jaipur,Normal,Male,Cheese,Dairy,9,234.98,Card,3.1,2114.82
+INV0046,2026-06-20,C,Mumbai,Normal,Female,Chips,Snacks,2,33.96,Card,3.8,67.92
+INV0047,2026-06-07,D,Bengaluru,Member,Female,Soap,Personal Care,4,45.39,Cash,4.1,181.56
+INV0048,2026-04-30,D,Bengaluru,Member,Female,Noodles,Grocery,5,57.94,Card,3.9,289.7
+INV0049,2026-01-24,B,Delhi,Normal,Female,Cheese,Dairy,3,219.06,Card,4.6,657.18
+INV0050,2026-05-02,B,Delhi,Member,Male,Soap,Personal Care,4,43.02,Cash,4.2,172.08
+INV0051,2026-04-13,A,Jaipur,Member,Female,Potato,Vegetables,10,34.52,Net Banking,3.5,345.2
+INV0052,2026-05-23,A,Jaipur,Member,Female,Shampoo,Personal Care,4,188.02,UPI,3.5,752.08
+INV0053,2026-06-06,A,Jaipur,Normal,Female,Potato,Vegetables,8,32.95,Net Banking,4.6,263.6
+INV0054,2026-03-08,D,Bengaluru,Normal,Female,Noodles,Grocery,3,54.52,Net Banking,4.5,163.56
+INV0055,2026-03-02,C,Mumbai,Member,Male,Cheese,Dairy,4,219.46,Card,3.5,877.84
+INV0056,2026-01-17,C,Mumbai,Member,Male,Noodles,Grocery,3,51.31,Cash,3.8,153.93
+INV0057,2026-05-30,C,Mumbai,Member,Female,Noodles,Grocery,1,54.7,Net Banking,4.9,54.7
+INV0058,2026-04-18,A,Jaipur,Normal,Female,Cold Drink,Beverages,1,63.76,Net Banking,4.1,63.76
+INV0059,2026-06-21,B,Delhi,Member,Female,Tomato,Vegetables,7,42.98,Card,4.4,300.86
+INV0060,2026-06-01,D,Bengaluru,Normal,Male,Cooking Oil,Grocery,3,158.17,Net Banking,4.1,474.51
+INV0061,2026-03-08,A,Jaipur,Normal,Male,Rice,Grocery,3,71.6,UPI,3.8,214.8
+INV0062,2026-01-21,B,Delhi,Member,Female,Potato,Vegetables,7,34.03,Card,3.9,238.21
+INV0063,2026-03-05,A,Jaipur,Normal,Male,Coffee,Beverages,2,172.06,UPI,3.4,344.12
+INV0064,2026-04-30,A,Jaipur,Member,Male,Chips,Snacks,3,33.05,Cash,4.4,99.15
+INV0065,2026-01-28,C,Mumbai,Normal,Male,Cooking Oil,Grocery,2,152.54,Card,4.2,305.08
+INV0066,2026-06-01,C,Mumbai,Member,Male,Cold Drink,Beverages,7,66.84,UPI,4.4,467.88
+INV0067,2026-03-30,B,Delhi,Normal,Male,Shampoo,Personal Care,5,185.68,UPI,4.1,928.4
+INV0068,2026-01-28,C,Mumbai,Member,Female,Rice,Grocery,6,70.07,Net Banking,3.9,420.42
+INV0069,2026-04-30,C,Mumbai,Member,Female,Potato,Vegetables,7,36.16,Net Banking,3.9,253.12
+INV0070,2026-04-29,C,Mumbai,Member,Female,Tea,Beverages,2,126.75,Cash,4.1,253.5
+INV0071,2026-03-08,D,Bengaluru,Member,Male,Tea,Beverages,6,110.95,Card,3.7,665.7
+INV0072,2026-05-23,C,Mumbai,Member,Female,Noodles,Grocery,4,50.69,Net Banking,4.5,202.76
+INV0073,2026-06-27,D,Bengaluru,Member,Male,Tomato,Vegetables,1,44.63,Net Banking,3.5,44.63
+INV0074,2026-06-29,C,Mumbai,Member,Female,Tomato,Vegetables,6,45.39,Card,3.9,272.34
+INV0075,2026-02-25,C,Mumbai,Member,Male,Face Wash,Personal Care,4,114.83,Cash,4.5,459.32
+INV0076,2026-03-17,C,Mumbai,Member,Male,Cold Drink,Beverages,9,69.96,Cash,3.5,629.64
+INV0077,2026-05-22,B,Delhi,Member,Male,Soap,Personal Care,9,41.5,UPI,3.6,373.5
+INV0078,2026-04-23,B,Delhi,Member,Female,Tomato,Vegetables,1,42.14,Net Banking,3.7,42.14
+INV0079,2026-05-06,A,Jaipur,Member,Male,Face Wash,Personal Care,8,128.47,Net Banking,3.1,1027.76
+INV0080,2026-01-31,A,Jaipur,Normal,Male,Biscuits,Snacks,10,28.32,Cash,4.1,283.2
+INV0081,2026-04-24,D,Bengaluru,Member,Female,Chips,Snacks,10,35.54,Net Banking,3.6,355.4
+INV0082,2026-06-10,D,Bengaluru,Normal,Male,Soap,Personal Care,1,45.49,Cash,3.4,45.49
+INV0083,2026-04-26,A,Jaipur,Member,Male,Cooking Oil,Grocery,9,143.76,Net Banking,4.4,1293.84
+INV0084,2026-06-25,D,Bengaluru,Normal,Female,Soap,Personal Care,5,41.64,UPI,3.5,208.2
+INV0085,2026-03-10,C,Mumbai,Member,Male,Cold Drink,Beverages,4,66.68,Cash,4.7,266.72
+INV0086,2026-02-01,A,Jaipur,Member,Female,Bread,Bakery,5,37.86,Net Banking,3.9,189.3
+INV0087,2026-06-03,C,Mumbai,Member,Female,Apples,Fruits,9,149.92,UPI,3.1,1349.28
+INV0088,2026-05-28,D,Bengaluru,Member,Male,Tea,Beverages,1,121.99,Card,3.1,121.99
+INV0089,2026-06-12,B,Delhi,Normal,Male,Tomato,Vegetables,8,45.14,Net Banking,4.6,361.12
+INV0090,2026-03-26,A,Jaipur,Member,Male,Tomato,Vegetables,6,43.91,Cash,3.8,263.46
+INV0091,2026-01-23,D,Bengaluru,Normal,Male,Soap,Personal Care,7,46.17,Net Banking,3.6,323.19
+INV0092,2026-04-16,C,Mumbai,Normal,Male,Shampoo,Personal Care,7,193.54,Net Banking,3.1,1354.78
+INV0093,2026-05-21,C,Mumbai,Normal,Male,Chips,Snacks,8,36.44,Card,3.3,291.52
+INV0094,2026-03-21,C,Mumbai,Member,Male,Potato,Vegetables,8,37.13,Cash,4.1,297.04
+INV0095,2026-05-08,D,Bengaluru,Member,Male,Rice,Grocery,2,66.92,Cash,4.9,133.84
+INV0096,2026-04-27,C,Mumbai,Normal,Female,Cheese,Dairy,7,227.23,Cash,4.1,1590.61
+INV0097,2026-03-12,D,Bengaluru,Normal,Male,Chocolate,Snacks,9,53.37,UPI,4.5,480.33
+INV0098,2026-03-18,D,Bengaluru,Member,Male,Tea,Beverages,9,128.34,Card,4.7,1155.06
+INV0099,2026-03-24,D,Bengaluru,Member,Female,Biscuits,Snacks,8,29.74,Net Banking,4.7,237.92
+INV0100,2026-04-09,B,Delhi,Member,Female,Cold Drink,Beverages,7,63.78,Net Banking,5,446.46
+INV0101,2026-04-23,B,Delhi,Member,Female,Tomato,Vegetables,3,48.35,UPI,3.2,145.05
+INV0102,2026-05-01,D,Bengaluru,Normal,Male,Milk,Dairy,7,56.96,UPI,4.6,398.72
+INV0103,2026-03-23,C,Mumbai,Normal,Female,Tea,Beverages,7,122.37,Net Banking,4.3,856.59
+INV0104,2026-01-24,D,Bengaluru,Member,Female,Noodles,Grocery,2,50.92,Cash,3.9,101.84
+INV0105,2026-01-15,A,Jaipur,Normal,Male,Shampoo,Personal Care,5,178.38,Card,3.6,891.9
+INV0106,2026-02-14,C,Mumbai,Member,Male,Bananas,Fruits,9,56.6,Cash,3.2,509.4
+INV0107,2026-04-29,D,Bengaluru,Normal,Male,Chips,Snacks,8,36.03,Cash,4.3,288.24
+INV0108,2026-04-24,D,Bengaluru,Normal,Male,Face Wash,Personal Care,8,123.2,UPI,4.9,985.6
+INV0109,2026-05-04,C,Mumbai,Normal,Male,Bananas,Fruits,8,61.83,Net Banking,3.2,494.64
+INV0110,2026-06-18,D,Bengaluru,Normal,Female,Cold Drink,Beverages,5,63.53,UPI,3.8,317.65
+INV0111,2026-02-28,A,Jaipur,Normal,Female,Cold Drink,Beverages,1,68.8,Card,4.2,68.8
+INV0112,2026-06-10,C,Mumbai,Member,Male,Eggs,Dairy,10,91.97,UPI,4.3,919.7
+INV0113,2026-03-25,C,Mumbai,Normal,Male,Potato,Vegetables,6,32.39,Card,4.5,194.34
+INV0114,2026-02-12,B,Delhi,Normal,Female,Chocolate,Snacks,9,47.06,Card,3.5,423.54
+INV0115,2026-02-06,D,Bengaluru,Normal,Female,Soap,Personal Care,6,46.78,UPI,4.5,280.68
+INV0116,2026-03-09,B,Delhi,Member,Female,Apples,Fruits,9,150.47,UPI,4.1,1354.23
+INV0117,2026-06-22,D,Bengaluru,Member,Female,Coffee,Beverages,5,184.98,UPI,3.5,924.9
+INV0118,2026-06-12,A,Jaipur,Member,Male,Chips,Snacks,9,37.15,UPI,4.6,334.35
+INV0119,2026-01-30,C,Mumbai,Normal,Female,Bananas,Fruits,1,56.32,Net Banking,3.2,56.32
+INV0120,2026-06-17,B,Delhi,Member,Male,Apples,Fruits,9,138.96,Net Banking,3.2,1250.64
+INV0121,2026-04-24,D,Bengaluru,Member,Female,Chips,Snacks,5,34.49,Cash,3.9,172.45
+INV0122,2026-04-12,B,Delhi,Member,Female,Coffee,Beverages,6,168.46,UPI,3.6,1010.76
+INV0123,2026-03-27,A,Jaipur,Normal,Male,Potato,Vegetables,4,32.71,UPI,3.5,130.84
+INV0124,2026-03-26,B,Delhi,Member,Male,Cold Drink,Beverages,9,61.93,Cash,4.5,557.37
+INV0125,2026-01-29,A,Jaipur,Normal,Female,Face Wash,Personal Care,3,126.88,Cash,4.3,380.64
+INV0126,2026-03-09,A,Jaipur,Member,Male,Biscuits,Snacks,4,27.67,Cash,3.1,110.68
+INV0127,2026-04-26,D,Bengaluru,Member,Female,Cheese,Dairy,2,206.4,UPI,4,412.8
+INV0128,2026-04-20,A,Jaipur,Member,Female,Cheese,Dairy,1,213.02,Net Banking,4.4,213.02
+INV0129,2026-02-02,D,Bengaluru,Member,Male,Potato,Vegetables,2,32.61,UPI,3.6,65.22
+INV0130,2026-06-29,C,Mumbai,Member,Female,Apples,Fruits,9,151.08,UPI,3.2,1359.72
+INV0131,2026-04-17,B,Delhi,Member,Female,Bananas,Fruits,4,59.53,Net Banking,4.5,238.12
+INV0132,2026-01-18,C,Mumbai,Member,Male,Bananas,Fruits,5,58.2,Net Banking,3.2,291
+INV0133,2026-06-21,A,Jaipur,Normal,Male,Rice,Grocery,6,69.24,Card,3.2,415.44
+INV0134,2026-01-27,C,Mumbai,Normal,Female,Bananas,Fruits,1,63.53,Card,4.2,63.53
+INV0135,2026-01-30,B,Delhi,Normal,Female,Biscuits,Snacks,4,30.75,Card,4.5,123
+INV0136,2026-01-08,B,Delhi,Normal,Male,Bananas,Fruits,10,63.31,Card,3.4,633.1
+INV0137,2026-02-06,C,Mumbai,Normal,Female,Tea,Beverages,3,117.14,UPI,4.5,351.42
+INV0138,2026-02-10,A,Jaipur,Member,Female,Rice,Grocery,4,72.76,Card,3.7,291.04
+INV0139,2026-03-11,C,Mumbai,Member,Male,Cold Drink,Beverages,1,66,UPI,3.9,66
+INV0140,2026-04-21,D,Bengaluru,Member,Male,Tomato,Vegetables,7,45.77,Card,3.2,320.39
+INV0141,2026-02-22,D,Bengaluru,Member,Male,Cheese,Dairy,1,225.88,UPI,3.6,225.88
+INV0142,2026-04-21,B,Delhi,Member,Male,Biscuits,Snacks,5,31.27,Net Banking,3.4,156.35
+INV0143,2026-04-12,D,Bengaluru,Member,Female,Noodles,Grocery,9,56.79,UPI,4.7,511.11
+INV0144,2026-07-01,A,Jaipur,Normal,Female,Bananas,Fruits,2,55.38,Net Banking,4.3,110.76
+INV0145,2026-01-23,C,Mumbai,Member,Female,Shampoo,Personal Care,6,177.26,Card,3.9,1063.56
+INV0146,2026-03-28,A,Jaipur,Member,Female,Eggs,Dairy,7,89.07,Card,3.4,623.49
+INV0147,2026-03-31,B,Delhi,Member,Male,Rice,Grocery,2,70.12,Card,4.5,140.24
+INV0148,2026-02-15,B,Delhi,Member,Male,Eggs,Dairy,5,84.28,UPI,4.9,421.4
+INV0149,2026-02-08,D,Bengaluru,Member,Female,Potato,Vegetables,10,36.42,Card,3.9,364.2
+INV0150,2026-03-21,D,Bengaluru,Member,Female,Potato,Vegetables,5,35.74,UPI,3.9,178.7
+INV0151,2026-04-29,A,Jaipur,Member,Male,Bread,Bakery,5,39.16,Net Banking,4.2,195.8
+INV0152,2026-05-09,A,Jaipur,Normal,Female,Potato,Vegetables,10,37.29,Net Banking,3.3,372.9
+INV0153,2026-01-11,A,Jaipur,Normal,Male,Potato,Vegetables,6,32.78,Cash,3.5,196.68
+INV0154,2026-04-10,D,Bengaluru,Member,Female,Potato,Vegetables,10,35.13,Card,3.8,351.3
+INV0155,2026-03-14,C,Mumbai,Member,Male,Chips,Snacks,6,32.49,Net Banking,3.5,194.94
+INV0156,2026-02-03,B,Delhi,Normal,Female,Tea,Beverages,3,111.96,Net Banking,4.2,335.88
+INV0157,2026-05-11,A,Jaipur,Normal,Male,Soap,Personal Care,6,45.42,Net Banking,3.7,272.52
+INV0158,2026-02-27,C,Mumbai,Member,Female,Soap,Personal Care,4,42.7,Cash,5,170.8
+INV0159,2026-06-08,B,Delhi,Member,Male,Rice,Grocery,2,67.71,Card,3.3,135.42
+INV0160,2026-01-12,D,Bengaluru,Normal,Male,Biscuits,Snacks,10,28.38,Net Banking,3.8,283.8
+INV0161,2026-05-01,B,Delhi,Member,Male,Potato,Vegetables,8,35.62,Card,4.8,284.96
+INV0162,2026-04-08,B,Delhi,Normal,Female,Coffee,Beverages,10,185.14,Card,4,1851.4
+INV0163,2026-06-14,D,Bengaluru,Member,Female,Cooking Oil,Grocery,10,157.61,UPI,4,1576.1
+INV0164,2026-02-11,C,Mumbai,Normal,Female,Noodles,Grocery,9,58.82,UPI,3.5,529.38
+INV0165,2026-04-17,B,Delhi,Normal,Female,Bananas,Fruits,4,56.08,UPI,3.1,224.32
+INV0166,2026-01-26,C,Mumbai,Member,Male,Eggs,Dairy,2,88.36,Card,4.7,176.72
+INV0167,2026-06-30,C,Mumbai,Normal,Female,Biscuits,Snacks,5,28.26,Cash,3.9,141.3
+INV0168,2026-03-15,A,Jaipur,Normal,Female,Rice,Grocery,4,64.61,UPI,3.5,258.44
+INV0169,2026-06-02,A,Jaipur,Member,Male,Bread,Bakery,10,38.33,Net Banking,4.1,383.3
+INV0170,2026-02-17,B,Delhi,Normal,Male,Biscuits,Snacks,1,29,Net Banking,4.3,29
+INV0171,2026-05-01,A,Jaipur,Normal,Male,Cheese,Dairy,2,236.71,Net Banking,3.1,473.42
+INV0172,2026-03-03,D,Bengaluru,Member,Male,Coffee,Beverages,1,172.91,Card,4.5,172.91
+INV0173,2026-06-14,A,Jaipur,Member,Female,Cold Drink,Beverages,6,67.45,Card,3.4,404.7
+INV0174,2026-03-17,D,Bengaluru,Member,Female,Tomato,Vegetables,3,45.95,UPI,3.4,137.85
+INV0175,2026-01-10,B,Delhi,Member,Female,Bread,Bakery,5,38.82,Card,4.5,194.1
+INV0176,2026-02-01,B,Delhi,Normal,Female,Soap,Personal Care,1,43.97,Card,4.6,43.97
+INV0177,2026-06-27,D,Bengaluru,Member,Male,Apples,Fruits,7,145.45,Net Banking,4,1018.15
+INV0178,2026-03-24,C,Mumbai,Member,Male,Rice,Grocery,2,72.54,Card,3.2,145.08
+INV0179,2026-03-31,C,Mumbai,Normal,Male,Soap,Personal Care,10,43.61,Net Banking,3.9,436.1
+INV0180,2026-06-21,C,Mumbai,Normal,Male,Chips,Snacks,5,37.79,UPI,4.3,188.95
+INV0181,2026-01-09,C,Mumbai,Normal,Male,Cheese,Dairy,3,230.6,Net Banking,3.3,691.8
+INV0182,2026-04-05,B,Delhi,Member,Male,Coffee,Beverages,10,176.03,Net Banking,3.7,1760.3
+INV0183,2026-01-30,A,Jaipur,Member,Female,Cold Drink,Beverages,6,61.23,Cash,3.1,367.38
+INV0184,2026-02-24,B,Delhi,Member,Female,Tomato,Vegetables,9,45.13,Net Banking,5,406.17
+INV0185,2026-04-24,C,Mumbai,Normal,Female,Tomato,Vegetables,3,42.84,Cash,5,128.52
+INV0186,2026-07-01,C,Mumbai,Member,Female,Coffee,Beverages,9,186.03,Cash,4.9,1674.27
+INV0187,2026-05-07,B,Delhi,Normal,Male,Coffee,Beverages,2,180.25,Cash,3.1,360.5
+INV0188,2026-03-21,C,Mumbai,Member,Male,Potato,Vegetables,9,36.7,UPI,3.8,330.3
+INV0189,2026-03-23,D,Bengaluru,Normal,Male,Cheese,Dairy,7,216.86,Cash,4.3,1518.02
+INV0190,2026-04-21,D,Bengaluru,Member,Male,Potato,Vegetables,6,36.01,Cash,4,216.06
+INV0191,2026-03-30,A,Jaipur,Member,Female,Shampoo,Personal Care,5,180.52,Cash,4.9,902.6
+INV0192,2026-05-09,C,Mumbai,Member,Female,Rice,Grocery,9,67.21,UPI,4.3,604.89
+INV0193,2026-01-21,B,Delhi,Member,Male,Cooking Oil,Grocery,10,153.81,UPI,3.1,1538.1
+INV0194,2026-06-10,C,Mumbai,Normal,Male,Chocolate,Snacks,7,52.14,Net Banking,4.1,364.98
+INV0195,2026-02-10,C,Mumbai,Member,Male,Tomato,Vegetables,7,43.16,UPI,3.9,302.12
+INV0196,2026-04-13,D,Bengaluru,Member,Female,Potato,Vegetables,10,33.34,Card,3.3,333.4
+INV0197,2026-04-26,C,Mumbai,Member,Male,Cheese,Dairy,6,222.17,Card,3.5,1333.02
+INV0198,2026-02-10,A,Jaipur,Normal,Female,Bread,Bakery,7,38.66,Cash,4.6,270.62
+INV0199,2026-03-20,C,Mumbai,Normal,Female,Chocolate,Snacks,8,52.1,Net Banking,4,416.8
+INV0200,2026-01-13,A,Jaipur,Member,Female,Apples,Fruits,4,140.12,UPI,3.6,560.48
+INV0201,2026-04-14,D,Bengaluru,Member,Female,Soap,Personal Care,2,45.26,Card,3.7,90.52
+INV0202,2026-04-09,D,Bengaluru,Member,Female,Bread,Bakery,4,40.45,UPI,4,161.8
+INV0203,2026-04-06,C,Mumbai,Member,Male,Chips,Snacks,2,36.01,Net Banking,4.6,72.02
+INV0204,2026-01-12,C,Mumbai,Member,Female,Noodles,Grocery,3,58.86,UPI,3.1,176.58
+INV0205,2026-06-06,C,Mumbai,Normal,Male,Tomato,Vegetables,3,45.14,Card,3.6,135.42
+INV0206,2026-05-02,D,Bengaluru,Member,Female,Chips,Snacks,5,36.34,Card,4.6,181.7
+INV0207,2026-03-09,C,Mumbai,Member,Male,Tea,Beverages,7,123.34,Net Banking,4.9,863.38
+INV0208,2026-06-24,B,Delhi,Member,Female,Bread,Bakery,3,40.53,Cash,3.5,121.59
+INV0209,2026-04-16,A,Jaipur,Member,Female,Chocolate,Snacks,6,46.15,Cash,4,276.9
+INV0210,2026-05-15,D,Bengaluru,Member,Female,Bread,Bakery,9,41.32,Net Banking,3.8,371.88
+INV0211,2026-02-19,B,Delhi,Member,Female,Potato,Vegetables,6,37.31,Net Banking,4.9,223.86
+INV0212,2026-03-23,C,Mumbai,Normal,Male,Noodles,Grocery,5,53.23,Net Banking,4,266.15
+INV0213,2026-02-07,C,Mumbai,Member,Female,Soap,Personal Care,9,42.28,Card,3.6,380.52
+INV0214,2026-02-21,C,Mumbai,Normal,Female,Rice,Grocery,8,68.28,Cash,4.7,546.24
+INV0215,2026-01-13,C,Mumbai,Member,Male,Noodles,Grocery,3,56.73,Cash,4.3,170.19
+INV0216,2026-06-24,B,Delhi,Member,Female,Eggs,Dairy,7,83.56,UPI,4.5,584.92
+INV0217,2026-06-16,A,Jaipur,Member,Female,Noodles,Grocery,3,59.21,Net Banking,3.4,177.63
+INV0218,2026-05-17,C,Mumbai,Normal,Male,Tea,Beverages,1,115.88,Cash,4.5,115.88
+INV0219,2026-05-07,A,Jaipur,Normal,Male,Cooking Oil,Grocery,3,148.03,Net Banking,3.4,444.09
+INV0220,2026-04-27,C,Mumbai,Normal,Female,Bread,Bakery,10,36.86,Card,5,368.6
+INV0221,2026-02-11,D,Bengaluru,Member,Male,Biscuits,Snacks,8,31.69,Card,4.5,253.52
+INV0222,2026-06-06,C,Mumbai,Normal,Male,Cooking Oil,Grocery,6,138.34,Cash,4.7,830.04
+INV0223,2026-02-05,D,Bengaluru,Member,Male,Bananas,Fruits,2,60.15,Cash,4,120.3
+INV0224,2026-03-19,B,Delhi,Member,Female,Milk,Dairy,4,52.89,Card,4.2,211.56
+INV0225,2026-03-20,A,Jaipur,Member,Male,Face Wash,Personal Care,4,122.95,Net Banking,3.3,491.8
+INV0226,2026-02-04,C,Mumbai,Member,Male,Shampoo,Personal Care,5,183.99,Cash,4,919.95
+INV0227,2026-06-24,D,Bengaluru,Normal,Male,Chips,Snacks,9,34.29,Cash,4.5,308.61
+INV0228,2026-05-21,A,Jaipur,Member,Male,Cheese,Dairy,6,218.13,UPI,4.8,1308.78
+INV0229,2026-06-24,B,Delhi,Member,Female,Cold Drink,Beverages,3,65.38,UPI,3.4,196.14
+INV0230,2026-05-12,D,Bengaluru,Normal,Female,Rice,Grocery,8,74.47,Cash,3.8,595.76
+INV0231,2026-01-01,A,Jaipur,Normal,Female,Noodles,Grocery,5,54.67,Card,4.5,273.35
+INV0232,2026-05-01,A,Jaipur,Member,Male,Bread,Bakery,2,39.51,UPI,3.1,79.02
+INV0233,2026-04-07,D,Bengaluru,Member,Female,Cooking Oil,Grocery,7,156.46,Net Banking,3.8,1095.22
+INV0234,2026-01-01,B,Delhi,Member,Male,Coffee,Beverages,9,169.02,Cash,4.5,1521.18
+INV0235,2026-03-05,C,Mumbai,Member,Female,Potato,Vegetables,9,35.97,Cash,3.9,323.73
+INV0236,2026-03-03,B,Delhi,Member,Female,Face Wash,Personal Care,2,114.02,UPI,3.4,228.04
+INV0237,2026-01-12,A,Jaipur,Normal,Male,Chips,Snacks,10,32.39,Cash,3.8,323.9
+INV0238,2026-05-28,B,Delhi,Member,Female,Noodles,Grocery,1,52.51,Cash,3.6,52.51
+INV0239,2026-03-18,C,Mumbai,Normal,Male,Eggs,Dairy,3,87.15,Net Banking,3.6,261.45
+INV0240,2026-06-28,B,Delhi,Normal,Female,Bananas,Fruits,1,60.54,Card,3.8,60.54
+INV0241,2026-07-01,B,Delhi,Member,Male,Soap,Personal Care,9,44.11,Card,3.3,396.99
+INV0242,2026-03-04,D,Bengaluru,Member,Male,Bread,Bakery,7,40.4,Net Banking,3.5,282.8
+INV0243,2026-03-10,C,Mumbai,Member,Male,Rice,Grocery,6,74.73,UPI,3.8,448.38
+INV0244,2026-02-23,A,Jaipur,Normal,Male,Rice,Grocery,10,66.51,Net Banking,4.7,665.1
+INV0245,2026-05-03,C,Mumbai,Member,Male,Soap,Personal Care,1,48.29,UPI,4.8,48.29
+INV0246,2026-04-30,B,Delhi,Member,Female,Apples,Fruits,9,149.3,Net Banking,4.1,1343.7
+INV0247,2026-05-01,C,Mumbai,Normal,Female,Soap,Personal Care,9,43.28,UPI,4.5,389.52
+INV0248,2026-01-05,C,Mumbai,Member,Male,Chocolate,Snacks,7,48.97,Cash,3.5,342.79
+INV0249,2026-05-21,D,Bengaluru,Member,Male,Soap,Personal Care,6,42.5,Net Banking,4.3,255
+INV0250,2026-02-13,C,Mumbai,Normal,Female,Face Wash,Personal Care,8,125.06,Net Banking,4.5,1000.48
+INV0251,2026-01-20,C,Mumbai,Member,Male,Cooking Oil,Grocery,9,141.36,UPI,4.9,1272.24
+INV0252,2026-02-25,A,Jaipur,Member,Male,Milk,Dairy,4,54.23,UPI,4,216.92
+INV0253,2026-01-02,C,Mumbai,Normal,Female,Bread,Bakery,10,40.75,UPI,4.1,407.5
+INV0254,2026-05-09,D,Bengaluru,Member,Female,Milk,Dairy,5,50.75,UPI,4.6,253.75
+INV0255,2026-06-08,D,Bengaluru,Member,Male,Cooking Oil,Grocery,2,140.57,Cash,4.1,281.14
+INV0256,2026-05-25,C,Mumbai,Member,Female,Face Wash,Personal Care,2,125.66,Net Banking,3.5,251.32
+INV0257,2026-04-14,B,Delhi,Normal,Male,Soap,Personal Care,2,46.33,UPI,3.8,92.66
+INV0258,2026-05-25,D,Bengaluru,Member,Female,Bread,Bakery,3,40.88,Card,5,122.64
+INV0259,2026-01-12,A,Jaipur,Member,Female,Cheese,Dairy,4,234.75,Card,4.8,939
+INV0260,2026-02-23,C,Mumbai,Member,Female,Noodles,Grocery,1,55.56,UPI,4.2,55.56
+INV0261,2026-04-09,D,Bengaluru,Member,Female,Rice,Grocery,10,67.75,Card,4.5,677.5
+INV0262,2026-01-20,B,Delhi,Member,Female,Rice,Grocery,6,70.01,Cash,3.7,420.06
+INV0263,2026-02-28,D,Bengaluru,Normal,Female,Tea,Beverages,5,110.97,Net Banking,3.7,554.85
+INV0264,2026-03-05,D,Bengaluru,Normal,Male,Bananas,Fruits,10,56.98,Card,4.4,569.8
+INV0265,2026-01-28,A,Jaipur,Normal,Female,Face Wash,Personal Care,3,113.36,Card,3.2,340.08
+INV0266,2026-04-21,C,Mumbai,Member,Male,Potato,Vegetables,5,34.22,Cash,3.9,171.1
+INV0267,2026-01-04,D,Bengaluru,Member,Female,Shampoo,Personal Care,6,166.36,Net Banking,3.6,998.16
+INV0268,2026-06-25,D,Bengaluru,Normal,Male,Rice,Grocery,9,72.52,Cash,3.8,652.68
+INV0269,2026-03-12,B,Delhi,Member,Male,Face Wash,Personal Care,8,116.18,Net Banking,3.8,929.44
+INV0270,2026-04-28,D,Bengaluru,Normal,Female,Rice,Grocery,4,68.44,Cash,3.2,273.76
+INV0271,2026-04-23,C,Mumbai,Normal,Female,Milk,Dairy,6,58.95,Card,3.7,353.7
+INV0272,2026-03-23,B,Delhi,Member,Male,Soap,Personal Care,4,43.71,Net Banking,3.6,174.84
+INV0273,2026-01-30,D,Bengaluru,Member,Female,Cold Drink,Beverages,6,67.93,Card,4.9,407.58
+INV0274,2026-07-01,B,Delhi,Normal,Male,Cold Drink,Beverages,3,70.17,Net Banking,3.4,210.51
+INV0275,2026-03-03,C,Mumbai,Normal,Male,Rice,Grocery,7,73.57,Card,3.5,514.99
+INV0276,2026-05-17,B,Delhi,Member,Female,Bananas,Fruits,2,62.78,Net Banking,4,125.56
+INV0277,2026-03-05,D,Bengaluru,Normal,Male,Noodles,Grocery,6,50.92,UPI,4.3,305.52
+INV0278,2026-04-21,C,Mumbai,Member,Female,Cooking Oil,Grocery,1,153.53,Card,3.2,153.53
+INV0279,2026-04-06,A,Jaipur,Member,Male,Face Wash,Personal Care,9,114.66,Net Banking,3.8,1031.94
+INV0280,2026-01-30,B,Delhi,Member,Female,Coffee,Beverages,8,194.33,UPI,4.7,1554.64
+INV0281,2026-05-02,B,Delhi,Normal,Female,Coffee,Beverages,8,174.58,Card,3.2,1396.64
+INV0282,2026-03-29,D,Bengaluru,Normal,Male,Tea,Beverages,1,111.69,UPI,4.3,111.69
+INV0283,2026-03-01,B,Delhi,Member,Female,Eggs,Dairy,9,90.23,Net Banking,4.6,812.07
+INV0284,2026-06-01,B,Delhi,Member,Male,Cooking Oil,Grocery,7,153.37,Net Banking,3.9,1073.59
+INV0285,2026-03-25,A,Jaipur,Member,Male,Chocolate,Snacks,2,47.65,Card,3.4,95.3
+INV0286,2026-06-06,A,Jaipur,Member,Female,Face Wash,Personal Care,8,123.28,Net Banking,3.8,986.24
+INV0287,2026-06-22,A,Jaipur,Normal,Female,Coffee,Beverages,8,175.74,UPI,3.3,1405.92
+INV0288,2026-04-18,A,Jaipur,Member,Male,Eggs,Dairy,3,87.2,Net Banking,4.2,261.6
+INV0289,2026-05-06,D,Bengaluru,Normal,Male,Bananas,Fruits,9,56.98,Cash,3.6,512.82
+INV0290,2026-05-05,B,Delhi,Member,Female,Tea,Beverages,10,126.57,UPI,3.3,1265.7
+INV0291,2026-07-01,D,Bengaluru,Member,Female,Noodles,Grocery,8,55.05,Net Banking,4.7,440.4
+INV0292,2026-01-09,D,Bengaluru,Normal,Male,Cooking Oil,Grocery,1,139.98,Card,3.5,139.98
+INV0293,2026-05-27,C,Mumbai,Normal,Female,Cooking Oil,Grocery,10,156.74,UPI,3.2,1567.4
+INV0294,2026-04-19,C,Mumbai,Normal,Female,Noodles,Grocery,1,57.84,Cash,3.2,57.84
+INV0295,2026-04-23,B,Delhi,Member,Female,Soap,Personal Care,1,47.7,UPI,4.7,47.7
+INV0296,2026-06-07,A,Jaipur,Normal,Female,Eggs,Dairy,10,85.82,Cash,3.3,858.2
+INV0297,2026-03-24,B,Delhi,Member,Female,Chocolate,Snacks,10,52.44,Cash,5,524.4
+INV0298,2026-04-16,C,Mumbai,Normal,Male,Soap,Personal Care,9,45.52,Cash,4.8,409.68
+INV0299,2026-06-23,C,Mumbai,Member,Female,Biscuits,Snacks,3,30.97,Cash,3.8,92.91
+INV0300,2026-04-14,B,Delhi,Member,Male,Cold Drink,Beverages,7,66.38,UPI,4,464.66
+INV0301,2026-04-28,C,Mumbai,Member,Male,Coffee,Beverages,8,178.7,UPI,4.3,1429.6
+INV0302,2026-05-07,C,Mumbai,Member,Female,Rice,Grocery,7,73.31,Cash,3.5,513.17
+INV0303,2026-06-24,C,Mumbai,Member,Female,Tea,Beverages,3,120.91,Card,4.5,362.73
+INV0304,2026-04-27,A,Jaipur,Member,Male,Shampoo,Personal Care,8,183.63,Net Banking,3,1469.04
+INV0305,2026-03-12,D,Bengaluru,Normal,Female,Chocolate,Snacks,3,53.97,Cash,3.2,161.91
+INV0306,2026-04-20,C,Mumbai,Member,Female,Face Wash,Personal Care,3,111.98,Cash,4.3,335.94
+INV0307,2026-01-03,A,Jaipur,Member,Male,Milk,Dairy,2,52.48,Net Banking,3,104.96
+INV0308,2026-02-28,C,Mumbai,Normal,Female,Shampoo,Personal Care,7,194.06,UPI,3.8,1358.42
+INV0309,2026-01-18,A,Jaipur,Member,Male,Shampoo,Personal Care,5,174.62,Cash,4.1,873.1
+INV0310,2026-04-16,A,Jaipur,Member,Male,Chips,Snacks,8,35.84,Cash,4.2,286.72
+INV0311,2026-03-31,D,Bengaluru,Member,Male,Chocolate,Snacks,2,46.69,Net Banking,4.9,93.38
+INV0312,2026-06-18,C,Mumbai,Member,Female,Biscuits,Snacks,2,28.79,UPI,4.8,57.58
+INV0313,2026-03-03,B,Delhi,Normal,Female,Cheese,Dairy,4,223.76,UPI,4,895.04
+INV0314,2026-03-23,A,Jaipur,Member,Male,Eggs,Dairy,10,89.99,Card,3.3,899.9
+INV0315,2026-05-31,D,Bengaluru,Normal,Male,Coffee,Beverages,3,181.34,UPI,3.1,544.02
+INV0316,2026-06-10,C,Mumbai,Normal,Female,Chocolate,Snacks,1,46.32,Card,4.4,46.32
+INV0317,2026-01-22,D,Bengaluru,Normal,Male,Bananas,Fruits,2,61.94,Card,3.6,123.88
+INV0318,2026-06-28,B,Delhi,Member,Male,Biscuits,Snacks,7,30.17,Card,3.9,211.19
+INV0319,2026-06-20,B,Delhi,Member,Male,Bread,Bakery,7,38.36,Card,4.5,268.52
+INV0320,2026-03-30,B,Delhi,Normal,Male,Shampoo,Personal Care,3,165.96,Net Banking,4,497.88
+INV0321,2026-03-27,C,Mumbai,Normal,Male,Cooking Oil,Grocery,5,146.92,UPI,4.6,734.6
+INV0322,2026-05-11,C,Mumbai,Normal,Female,Cheese,Dairy,10,204.65,Net Banking,3.7,2046.5
+INV0323,2026-02-28,D,Bengaluru,Member,Male,Cold Drink,Beverages,3,61.54,UPI,4.5,184.62
+INV0324,2026-04-09,A,Jaipur,Member,Female,Bread,Bakery,1,42.3,Card,4.8,42.3
+INV0325,2026-03-23,B,Delhi,Member,Male,Bread,Bakery,7,40.34,Net Banking,3.5,282.38
+INV0326,2026-02-27,A,Jaipur,Normal,Male,Cold Drink,Beverages,9,63.68,Cash,4.6,573.12
+INV0327,2026-01-23,A,Jaipur,Normal,Female,Apples,Fruits,8,130.34,Card,4.1,1042.72
+INV0328,2026-04-05,A,Jaipur,Normal,Male,Coffee,Beverages,10,171.38,Net Banking,4.2,1713.8
+INV0329,2026-01-02,D,Bengaluru,Normal,Male,Chocolate,Snacks,9,51.86,Cash,4.9,466.74
+INV0330,2026-03-20,A,Jaipur,Normal,Male,Eggs,Dairy,1,90.6,Net Banking,3.2,90.6
+INV0331,2026-01-24,B,Delhi,Normal,Male,Bananas,Fruits,1,59.92,Card,3.1,59.92
+INV0332,2026-05-10,B,Delhi,Member,Male,Cheese,Dairy,6,216.94,UPI,3.3,1301.64
+INV0333,2026-03-16,D,Bengaluru,Member,Male,Rice,Grocery,1,71.03,Cash,3.5,71.03
+INV0334,2026-01-20,C,Mumbai,Member,Female,Apples,Fruits,6,144.5,Cash,4.9,867
+INV0335,2026-04-15,B,Delhi,Member,Female,Cold Drink,Beverages,2,60.93,Card,3.2,121.86
+INV0336,2026-02-10,C,Mumbai,Member,Male,Chocolate,Snacks,8,49.62,UPI,4.6,396.96
+INV0337,2026-04-12,C,Mumbai,Member,Male,Chips,Snacks,6,32.43,Card,4,194.58
+INV0338,2026-05-23,C,Mumbai,Member,Female,Face Wash,Personal Care,3,126.15,Net Banking,4.5,378.45
+INV0339,2026-02-03,B,Delhi,Member,Male,Shampoo,Personal Care,3,178.91,Cash,3.4,536.73
+INV0340,2026-01-06,D,Bengaluru,Member,Female,Coffee,Beverages,2,185.37,UPI,5,370.74
+INV0341,2026-01-11,B,Delhi,Normal,Female,Potato,Vegetables,2,36.73,UPI,4.9,73.46
+INV0342,2026-01-08,A,Jaipur,Normal,Female,Cooking Oil,Grocery,7,160.18,Net Banking,3.8,1121.26
+INV0343,2026-01-09,D,Bengaluru,Member,Female,Cooking Oil,Grocery,3,146.49,Cash,4.2,439.47
+INV0344,2026-04-09,B,Delhi,Member,Male,Soap,Personal Care,9,44.99,Card,3.3,404.91
+INV0345,2026-05-03,B,Delhi,Normal,Female,Cheese,Dairy,9,211.17,Card,4.1,1900.53
+INV0346,2026-01-07,D,Bengaluru,Member,Female,Coffee,Beverages,9,191.89,Cash,3.6,1727.01
+INV0347,2026-05-30,B,Delhi,Member,Female,Milk,Dairy,5,58.48,Card,5,292.4
+INV0348,2026-05-28,B,Delhi,Member,Male,Shampoo,Personal Care,4,172.74,Cash,4.7,690.96
+INV0349,2026-06-01,D,Bengaluru,Member,Female,Coffee,Beverages,3,192.53,Card,3.1,577.59
+INV0350,2026-02-14,C,Mumbai,Normal,Female,Cold Drink,Beverages,10,65.66,Card,4,656.6
+INV0351,2026-03-26,A,Jaipur,Member,Female,Bread,Bakery,4,38.29,UPI,4.8,153.16
+INV0352,2026-01-06,B,Delhi,Normal,Female,Biscuits,Snacks,3,29.24,UPI,3.3,87.72
+INV0353,2026-05-31,B,Delhi,Normal,Female,Shampoo,Personal Care,6,189.98,Net Banking,3.2,1139.88
+INV0354,2026-06-16,C,Mumbai,Normal,Female,Tea,Beverages,3,113.02,Net Banking,3.6,339.06
+INV0355,2026-02-15,C,Mumbai,Member,Female,Eggs,Dairy,3,92.38,Cash,4.5,277.14
+INV0356,2026-05-08,D,Bengaluru,Member,Male,Cold Drink,Beverages,10,60.14,UPI,3.3,601.4
+INV0357,2026-04-25,A,Jaipur,Member,Male,Eggs,Dairy,6,87.79,Card,3,526.74
+INV0358,2026-01-13,B,Delhi,Member,Male,Eggs,Dairy,6,92.78,UPI,3.8,556.68
+INV0359,2026-01-26,D,Bengaluru,Normal,Female,Cooking Oil,Grocery,8,159.23,Net Banking,4.7,1273.84
+INV0360,2026-01-27,B,Delhi,Member,Female,Cooking Oil,Grocery,1,148.83,Card,3.1,148.83
+INV0361,2026-06-02,B,Delhi,Member,Male,Apples,Fruits,2,132.4,Card,5,264.8
+INV0362,2026-01-14,D,Bengaluru,Normal,Female,Milk,Dairy,3,54.4,Cash,3.2,163.2
+INV0363,2026-03-18,B,Delhi,Normal,Female,Chocolate,Snacks,9,49.27,Card,3.5,443.43
+INV0364,2026-04-20,A,Jaipur,Member,Female,Apples,Fruits,8,141.61,UPI,3.2,1132.88
+INV0365,2026-05-02,D,Bengaluru,Member,Female,Chocolate,Snacks,4,46.78,UPI,4.7,187.12
+INV0366,2026-04-05,C,Mumbai,Member,Female,Apples,Fruits,5,139.35,Cash,4.8,696.75
+INV0367,2026-03-10,C,Mumbai,Member,Female,Cooking Oil,Grocery,5,148.7,Cash,4.1,743.5
+INV0368,2026-05-22,B,Delhi,Normal,Female,Shampoo,Personal Care,6,168.07,Cash,3.1,1008.42
+INV0369,2026-05-02,D,Bengaluru,Normal,Female,Cheese,Dairy,9,217.14,Cash,3.6,1954.26
+INV0370,2026-04-25,D,Bengaluru,Normal,Male,Bread,Bakery,9,40.01,UPI,3.3,360.09
+INV0371,2026-02-21,B,Delhi,Member,Male,Chocolate,Snacks,3,52.47,Net Banking,5,157.41
+INV0372,2026-03-12,B,Delhi,Member,Female,Chips,Snacks,2,33.64,Card,4,67.28
+INV0373,2026-05-26,A,Jaipur,Member,Male,Chips,Snacks,7,35.49,Cash,4.2,248.43
+INV0374,2026-03-09,A,Jaipur,Normal,Female,Shampoo,Personal Care,2,181.81,Net Banking,3.8,363.62
+INV0375,2026-06-08,D,Bengaluru,Member,Female,Cold Drink,Beverages,1,66.13,Cash,4.2,66.13
+INV0376,2026-03-10,D,Bengaluru,Normal,Male,Bread,Bakery,6,39.33,Net Banking,4.8,235.98
+INV0377,2026-02-28,A,Jaipur,Member,Female,Tea,Beverages,5,126.09,UPI,3.3,630.45
+INV0378,2026-04-24,D,Bengaluru,Normal,Male,Tea,Beverages,7,115.57,Cash,3.4,808.99
+INV0379,2026-03-21,D,Bengaluru,Normal,Male,Tomato,Vegetables,6,46.87,UPI,4.4,281.22
+INV0380,2026-02-19,D,Bengaluru,Normal,Male,Biscuits,Snacks,9,31.35,Cash,4.8,282.15
+INV0381,2026-03-12,B,Delhi,Member,Female,Bread,Bakery,8,38.4,Cash,3.7,307.2
+INV0382,2026-05-06,D,Bengaluru,Normal,Male,Cheese,Dairy,2,216.37,Card,4.2,432.74
+INV0383,2026-03-14,B,Delhi,Member,Female,Tomato,Vegetables,6,45.63,UPI,3.1,273.78
+INV0384,2026-03-10,A,Jaipur,Normal,Male,Cooking Oil,Grocery,4,158.49,Cash,4.3,633.96
+INV0385,2026-03-06,A,Jaipur,Normal,Male,Milk,Dairy,3,54.77,Cash,4.2,164.31
+INV0386,2026-02-25,C,Mumbai,Normal,Female,Face Wash,Personal Care,7,118.54,Card,3.9,829.78
+INV0387,2026-03-18,D,Bengaluru,Normal,Female,Cold Drink,Beverages,9,60.86,Card,4.4,547.74
+INV0388,2026-06-17,D,Bengaluru,Normal,Female,Rice,Grocery,5,68.17,Card,4.4,340.85
+INV0389,2026-06-24,C,Mumbai,Normal,Female,Chocolate,Snacks,4,47.2,Card,3.3,188.8
+INV0390,2026-01-10,A,Jaipur,Normal,Female,Tomato,Vegetables,5,48.58,Net Banking,4.2,242.9
+INV0391,2026-05-10,B,Delhi,Normal,Female,Tea,Beverages,4,124.35,Card,3.6,497.4
+INV0392,2026-06-24,B,Delhi,Member,Female,Noodles,Grocery,2,52.19,Cash,4.8,104.38
+INV0393,2026-03-08,A,Jaipur,Member,Female,Eggs,Dairy,5,87.92,Card,4.2,439.6
+INV0394,2026-02-19,D,Bengaluru,Member,Male,Shampoo,Personal Care,10,179.15,Net Banking,4,1791.5
+INV0395,2026-02-21,D,Bengaluru,Normal,Male,Cheese,Dairy,1,212.9,Cash,3.7,212.9
+INV0396,2026-06-11,D,Bengaluru,Normal,Female,Biscuits,Snacks,3,29.12,Card,5,87.36
+INV0397,2026-05-06,C,Mumbai,Member,Male,Bread,Bakery,5,36.83,Cash,4.6,184.15
+INV0398,2026-01-02,A,Jaipur,Member,Female,Biscuits,Snacks,7,30.55,Net Banking,3.1,213.85
+INV0399,2026-06-23,B,Delhi,Normal,Male,Coffee,Beverages,6,192.96,UPI,3,1157.76
+INV0400,2026-05-09,B,Delhi,Member,Male,Eggs,Dairy,6,92.79,Net Banking,4.2,556.74
+INV0401,2026-04-22,B,Delhi,Normal,Female,Rice,Grocery,5,73.63,Card,4.8,368.15
+INV0402,2026-04-14,B,Delhi,Member,Male,Tea,Beverages,8,129.53,Cash,3,1036.24
+INV0403,2026-04-04,B,Delhi,Member,Male,Biscuits,Snacks,1,28.61,UPI,4.4,28.61
+INV0404,2026-06-19,A,Jaipur,Normal,Male,Apples,Fruits,5,148.43,UPI,3.2,742.15
+INV0405,2026-05-02,A,Jaipur,Member,Male,Bread,Bakery,7,41.21,Card,4.4,288.47
+INV0406,2026-04-18,B,Delhi,Normal,Female,Milk,Dairy,2,53.25,Cash,4.7,106.5
+INV0407,2026-02-20,A,Jaipur,Member,Male,Cheese,Dairy,2,227.7,Net Banking,4.2,455.4
+INV0408,2026-01-11,C,Mumbai,Normal,Female,Cheese,Dairy,6,236.65,Cash,4.1,1419.9
+INV0409,2026-05-27,B,Delhi,Member,Male,Tomato,Vegetables,1,43.78,UPI,4.3,43.78
+INV0410,2026-06-14,B,Delhi,Normal,Male,Rice,Grocery,2,73.13,Card,3.5,146.26
+INV0411,2026-04-03,C,Mumbai,Normal,Male,Face Wash,Personal Care,2,119.31,Card,4.6,238.62
+INV0412,2026-02-05,C,Mumbai,Normal,Male,Bananas,Fruits,2,62.29,UPI,4.3,124.58
+INV0413,2026-04-06,B,Delhi,Normal,Female,Tea,Beverages,8,117.26,UPI,4.6,938.08
+INV0414,2026-04-18,B,Delhi,Member,Female,Shampoo,Personal Care,8,177.14,Net Banking,4.3,1417.12
+INV0415,2026-04-17,B,Delhi,Normal,Male,Shampoo,Personal Care,1,169.42,UPI,4.8,169.42
+INV0416,2026-06-25,D,Bengaluru,Normal,Female,Cold Drink,Beverages,3,66.86,UPI,4.8,200.58
+INV0417,2026-01-17,B,Delhi,Normal,Female,Tomato,Vegetables,2,48.03,UPI,3.5,96.06
+INV0418,2026-05-13,C,Mumbai,Normal,Male,Milk,Dairy,9,56.8,Card,4,511.2
+INV0419,2026-05-23,A,Jaipur,Member,Female,Bananas,Fruits,4,61.55,Cash,4.8,246.2
+INV0420,2026-02-12,A,Jaipur,Member,Female,Milk,Dairy,3,56.26,Net Banking,3.1,168.78
+INV0421,2026-04-14,D,Bengaluru,Member,Male,Tea,Beverages,5,115.03,Net Banking,4.6,575.15
+INV0422,2026-03-22,A,Jaipur,Member,Female,Potato,Vegetables,10,34.69,Net Banking,3.2,346.9
+INV0423,2026-06-04,D,Bengaluru,Member,Male,Milk,Dairy,7,51.5,UPI,4.9,360.5
+INV0424,2026-02-27,C,Mumbai,Normal,Female,Cheese,Dairy,8,222.19,UPI,4.7,1777.52
+INV0425,2026-01-30,C,Mumbai,Member,Female,Noodles,Grocery,10,57.35,Net Banking,3.2,573.5
+INV0426,2026-01-12,B,Delhi,Member,Female,Milk,Dairy,5,53.6,UPI,4.8,268
+INV0427,2026-01-31,D,Bengaluru,Member,Male,Biscuits,Snacks,7,31.54,Cash,4.9,220.78
+INV0428,2026-01-12,D,Bengaluru,Normal,Male,Chocolate,Snacks,4,49.66,Net Banking,4.9,198.64
+INV0429,2026-01-02,A,Jaipur,Normal,Male,Potato,Vegetables,10,34.76,Net Banking,4.1,347.6
+INV0430,2026-02-02,A,Jaipur,Member,Male,Noodles,Grocery,10,58.83,Cash,3.2,588.3
+INV0431,2026-04-12,C,Mumbai,Normal,Male,Cheese,Dairy,7,233.42,Card,4.9,1633.94
+INV0432,2026-05-22,C,Mumbai,Member,Female,Potato,Vegetables,3,36.71,Card,4.3,110.13
+INV0433,2026-05-09,B,Delhi,Normal,Male,Chocolate,Snacks,5,50.99,Cash,4.1,254.95
+INV0434,2026-04-19,C,Mumbai,Member,Female,Shampoo,Personal Care,9,187.51,Card,4.6,1687.59
+INV0435,2026-02-11,A,Jaipur,Normal,Male,Milk,Dairy,1,53.95,Card,5,53.95
+INV0436,2026-04-26,C,Mumbai,Member,Male,Biscuits,Snacks,5,31.63,Card,3.2,158.15
+INV0437,2026-04-08,B,Delhi,Normal,Female,Noodles,Grocery,9,54.02,UPI,3.8,486.18
+INV0438,2026-06-12,C,Mumbai,Member,Female,Noodles,Grocery,5,51.07,Cash,4.4,255.35
+INV0439,2026-04-25,C,Mumbai,Member,Male,Cold Drink,Beverages,10,65.48,Card,3.4,654.8
+INV0440,2026-03-13,A,Jaipur,Member,Male,Cooking Oil,Grocery,9,161.1,Net Banking,4.1,1449.9
+INV0441,2026-01-11,B,Delhi,Member,Female,Cooking Oil,Grocery,5,152.02,Cash,3.3,760.1
+INV0442,2026-05-27,C,Mumbai,Normal,Female,Chips,Snacks,10,32.48,Net Banking,4.1,324.8
+INV0443,2026-05-20,A,Jaipur,Member,Male,Tea,Beverages,3,120.49,Net Banking,4.1,361.47
+INV0444,2026-03-17,A,Jaipur,Normal,Female,Coffee,Beverages,4,171.97,Card,3.4,687.88
+INV0445,2026-03-03,D,Bengaluru,Member,Female,Noodles,Grocery,1,57.85,Net Banking,4.8,57.85
+INV0446,2026-03-07,B,Delhi,Member,Male,Bread,Bakery,6,41.17,Net Banking,4.1,247.02
+INV0447,2026-01-12,C,Mumbai,Member,Female,Milk,Dairy,6,58.62,Net Banking,3.6,351.72
+INV0448,2026-02-23,B,Delhi,Member,Male,Tea,Beverages,2,120.27,UPI,4.3,240.54
+INV0449,2026-06-25,B,Delhi,Member,Female,Bananas,Fruits,4,63.22,UPI,3.3,252.88
+INV0450,2026-05-28,D,Bengaluru,Member,Female,Tea,Beverages,2,111.13,UPI,4.6,222.26
+INV0451,2026-06-22,C,Mumbai,Member,Male,Bananas,Fruits,7,58.93,Net Banking,3.2,412.51
+INV0452,2026-05-09,A,Jaipur,Member,Male,Chips,Snacks,10,32.55,Card,3.2,325.5
+INV0453,2026-02-10,C,Mumbai,Member,Male,Chips,Snacks,8,32.68,Net Banking,4.1,261.44
+INV0454,2026-06-23,B,Delhi,Member,Male,Apples,Fruits,9,146.65,Card,4.8,1319.85
+INV0455,2026-05-27,C,Mumbai,Member,Male,Milk,Dairy,9,55.47,UPI,4.2,499.23
+INV0456,2026-02-17,A,Jaipur,Member,Male,Soap,Personal Care,6,42.91,Cash,3.4,257.46
+INV0457,2026-03-16,C,Mumbai,Normal,Female,Chocolate,Snacks,10,46.92,UPI,4.3,469.2
+INV0458,2026-02-02,C,Mumbai,Member,Female,Shampoo,Personal Care,10,171.29,Card,4.3,1712.9
+INV0459,2026-04-26,B,Delhi,Normal,Female,Shampoo,Personal Care,2,173.81,Net Banking,3.7,347.62
+INV0460,2026-02-13,C,Mumbai,Member,Female,Cold Drink,Beverages,10,61.38,Net Banking,3,613.8
+INV0461,2026-06-23,B,Delhi,Member,Female,Eggs,Dairy,7,93.06,Cash,4.5,651.42
+INV0462,2026-06-15,D,Bengaluru,Member,Male,Potato,Vegetables,5,34.69,Cash,4.2,173.45
+INV0463,2026-01-05,C,Mumbai,Member,Male,Biscuits,Snacks,4,31.88,UPI,4.7,127.52
+INV0464,2026-05-20,A,Jaipur,Member,Male,Cold Drink,Beverages,10,65.82,Card,4.8,658.2
+INV0465,2026-04-29,D,Bengaluru,Normal,Female,Biscuits,Snacks,4,29.36,Cash,4,117.44
+INV0466,2026-04-25,A,Jaipur,Normal,Male,Apples,Fruits,1,136.95,Cash,3.3,136.95
+INV0467,2026-01-17,B,Delhi,Member,Female,Tomato,Vegetables,1,48.16,Cash,3.5,48.16
+INV0468,2026-05-01,B,Delhi,Normal,Female,Bread,Bakery,9,41.08,Net Banking,4.8,369.72
+INV0469,2026-05-29,A,Jaipur,Member,Female,Bread,Bakery,6,43.08,Card,4.1,258.48
+INV0470,2026-04-07,B,Delhi,Member,Male,Apples,Fruits,6,143.44,Card,4.9,860.64
+INV0471,2026-05-09,B,Delhi,Member,Female,Cheese,Dairy,6,216.69,UPI,4.8,1300.14
+INV0472,2026-02-17,D,Bengaluru,Normal,Male,Cooking Oil,Grocery,9,143.52,Cash,3.3,1291.68
+INV0473,2026-05-03,A,Jaipur,Normal,Female,Eggs,Dairy,6,88.77,Net Banking,3.4,532.62
+INV0474,2026-06-11,B,Delhi,Member,Male,Bananas,Fruits,1,55.42,Cash,4,55.42
+INV0475,2026-06-19,B,Delhi,Member,Female,Bread,Bakery,3,37.86,UPI,4.6,113.58
+INV0476,2026-04-16,A,Jaipur,Normal,Male,Chocolate,Snacks,8,49.59,Cash,4.2,396.72
+INV0477,2026-06-02,B,Delhi,Member,Female,Chips,Snacks,5,35.89,Net Banking,4.2,179.45
+INV0478,2026-06-05,B,Delhi,Member,Female,Apples,Fruits,2,137.43,Cash,3.2,274.86
+INV0479,2026-05-04,D,Bengaluru,Member,Male,Chips,Snacks,9,35.56,UPI,4.3,320.04
+INV0480,2026-05-04,A,Jaipur,Normal,Female,Bananas,Fruits,6,60.21,Cash,4.6,361.26
+INV0481,2026-05-03,D,Bengaluru,Member,Male,Coffee,Beverages,10,182.56,Card,4.5,1825.6
+INV0482,2026-07-01,A,Jaipur,Member,Male,Soap,Personal Care,9,45.71,UPI,4.5,411.39
+INV0483,2026-04-15,A,Jaipur,Member,Male,Cold Drink,Beverages,9,65.23,Card,3.7,587.07
+INV0484,2026-06-06,B,Delhi,Member,Female,Bananas,Fruits,5,61.46,Card,3.6,307.3
+INV0485,2026-03-06,D,Bengaluru,Member,Female,Chocolate,Snacks,9,49.31,Net Banking,5,443.79
+INV0486,2026-01-26,C,Mumbai,Normal,Female,Apples,Fruits,2,145.28,Cash,3.4,290.56
+INV0487,2026-04-10,D,Bengaluru,Normal,Male,Tea,Beverages,10,125.78,Cash,4.9,1257.8
+INV0488,2026-01-17,A,Jaipur,Normal,Female,Rice,Grocery,8,73.62,UPI,3.5,588.96
+INV0489,2026-06-02,C,Mumbai,Normal,Female,Rice,Grocery,7,71.22,Card,3.1,498.54
+INV0490,2026-01-09,B,Delhi,Normal,Female,Tomato,Vegetables,4,44.56,Cash,4.6,178.24
+INV0491,2026-01-23,B,Delhi,Member,Male,Chips,Snacks,1,33.15,Cash,5,33.15
+INV0492,2026-01-24,D,Bengaluru,Member,Male,Coffee,Beverages,7,184.89,UPI,4.1,1294.23
+INV0493,2026-04-14,C,Mumbai,Member,Male,Coffee,Beverages,5,193.34,Net Banking,4.1,966.7
+INV0494,2026-01-30,C,Mumbai,Member,Female,Cooking Oil,Grocery,2,147.77,Card,4.6,295.54
+INV0495,2026-05-25,C,Mumbai,Member,Female,Noodles,Grocery,10,57.76,Net Banking,4,577.6
+INV0496,2026-01-30,B,Delhi,Normal,Male,Tea,Beverages,8,128.86,Net Banking,3.5,1030.88
+INV0497,2026-05-13,D,Bengaluru,Normal,Female,Eggs,Dairy,4,92.55,Card,4.1,370.2
+INV0498,2026-05-22,C,Mumbai,Normal,Female,Eggs,Dairy,7,86.94,UPI,4.9,608.58
+INV0499,2026-02-21,D,Bengaluru,Member,Male,Tea,Beverages,10,117.19,Net Banking,3.5,1171.9
+INV0500,2026-01-28,B,Delhi,Normal,Female,Face Wash,Personal Care,4,114.37,Cash,3.2,457.48
